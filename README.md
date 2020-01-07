@@ -1,1 +1,1 @@
-# simple_board
+# simple board
