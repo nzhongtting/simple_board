@@ -29,7 +29,7 @@
 
           <div class="form-group">
               <label for="iurl">Description :</label>
-              {{ $test->description }}
+              {!! $test->description !!}
           </div>
 
           <a href="{{ route('test_crud.index')}}" class="btn btn-dark">LIST</a>
