@@ -38,6 +38,9 @@
   </div>
 </div>
 <script type='text/javascript'>
-   CKEDITOR.replace( 'description' );
+  CKEDITOR.replace('description', {
+        filebrowserUploadUrl: "{{route('ckeditor.upload', ['_token' => csrf_token() ])}}",
+        filebrowserUploadMethod: 'form'
+    });
 </script>
 @endsection

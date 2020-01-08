@@ -16,3 +16,6 @@ Route::get('/', function () {
 });
 
 Route::resource('test_crud', 'TestCRUDController');
+
+Route::get('ckeditor', 'CkeditorController@index');
+Route::post('ckeditor/upload', 'CkeditorController@upload')->name('ckeditor.upload');

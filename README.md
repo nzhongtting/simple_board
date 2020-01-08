@@ -1,4 +1,4 @@
-# simple board
+# simple CRUD board
 
 Ubuntu 18.04.2 LTS
 
