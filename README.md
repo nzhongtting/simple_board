@@ -8,7 +8,7 @@ mysql Ver 14.14 Distrib 5.7.27
 
 PHP 7.2.19
 
-CKEditor 4.7.2 (Standard) 
+CKEditor 4.7.2 (Standard) ; Images Upload
 
 ![images01](https://user-images.githubusercontent.com/34477830/71873825-83bdd180-3163-11ea-97ad-e0827405687d.PNG)
 
